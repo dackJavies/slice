@@ -1,0 +1,7 @@
+.vscode/
+Assembly-CSharp.csproj
+Library/
+Packages/
+Slice.sln
+ProjectSettings/
+Prefabs.meta Scenes.meta Scripts.meta Sprites.meta
